@@ -1,0 +1,16 @@
+D:\.net\Usecase-1-day4-emp\Usecase-1-day4-emp\bin\Debug\net5.0\Usecase-1-day4-emp.exe
+D:\.net\Usecase-1-day4-emp\Usecase-1-day4-emp\bin\Debug\net5.0\Usecase-1-day4-emp.deps.json
+D:\.net\Usecase-1-day4-emp\Usecase-1-day4-emp\bin\Debug\net5.0\Usecase-1-day4-emp.runtimeconfig.json
+D:\.net\Usecase-1-day4-emp\Usecase-1-day4-emp\bin\Debug\net5.0\Usecase-1-day4-emp.runtimeconfig.dev.json
+D:\.net\Usecase-1-day4-emp\Usecase-1-day4-emp\bin\Debug\net5.0\Usecase-1-day4-emp.dll
+D:\.net\Usecase-1-day4-emp\Usecase-1-day4-emp\bin\Debug\net5.0\Usecase-1-day4-emp.pdb
+D:\.net\Usecase-1-day4-emp\Usecase-1-day4-emp\obj\Debug\net5.0\Usecase-1-day4-emp.csproj.AssemblyReference.cache
+D:\.net\Usecase-1-day4-emp\Usecase-1-day4-emp\obj\Debug\net5.0\Usecase-1-day4-emp.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Usecase-1-day4-emp\Usecase-1-day4-emp\obj\Debug\net5.0\Usecase-1-day4-emp.AssemblyInfoInputs.cache
+D:\.net\Usecase-1-day4-emp\Usecase-1-day4-emp\obj\Debug\net5.0\Usecase-1-day4-emp.AssemblyInfo.cs
+D:\.net\Usecase-1-day4-emp\Usecase-1-day4-emp\obj\Debug\net5.0\Usecase-1-day4-emp.csproj.CoreCompileInputs.cache
+D:\.net\Usecase-1-day4-emp\Usecase-1-day4-emp\obj\Debug\net5.0\Usecase-1-day4-emp.dll
+D:\.net\Usecase-1-day4-emp\Usecase-1-day4-emp\obj\Debug\net5.0\refint\Usecase-1-day4-emp.dll
+D:\.net\Usecase-1-day4-emp\Usecase-1-day4-emp\obj\Debug\net5.0\Usecase-1-day4-emp.pdb
+D:\.net\Usecase-1-day4-emp\Usecase-1-day4-emp\obj\Debug\net5.0\Usecase-1-day4-emp.genruntimeconfig.cache
+D:\.net\Usecase-1-day4-emp\Usecase-1-day4-emp\obj\Debug\net5.0\ref\Usecase-1-day4-emp.dll
